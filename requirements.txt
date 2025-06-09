@@ -3,7 +3,6 @@ langchain-openai
 langchain-ollama
 langchain-community
 langchain-text-splitters
-langchain-chains
 numpy
 scikit-learn
 nltk
