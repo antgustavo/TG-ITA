@@ -8,3 +8,4 @@ numpy
 scikit-learn
 nltk
 neo4j
+ipykernel
